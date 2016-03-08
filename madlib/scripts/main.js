@@ -1,4 +1,4 @@
-var verb = prompt("Now enter a verb!");
+var verb = prompt("Enter a verb!");
 var pluralBodyPart = prompt(" Enter a plural body part!");
 var pastVerbTense = prompt("Enter a verb in past tense!");
 var fruit= prompt("What's your favorite fruit!");
